@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">an developer currently live in Indonesia !</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
